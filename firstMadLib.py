@@ -1,0 +1,10 @@
+def firstMadLib():
+ a=input("Adjective: ")
+ b=input("Adjective: ")
+ c=input("Noun: ")
+ d=input("Name of a room: ")
+ e=input("Adjective: ")
+ f=input("Name of a feeling: ")
+ g=input("Verb: ")
+ h=input("Noun: ")
+ print("It was a "+a+", hot May day. I woke up to the "+b+" smell of "+c+" roasting in the "+d+" downstairs. I immediately knew something was "+e+". Seeing that, I felt "+f+" and I decided to "+g+", despite the "+h+"!")
